@@ -1,0 +1,2 @@
+# awsResTracker
+Using Shell Scripting
